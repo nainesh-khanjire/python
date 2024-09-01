@@ -1,0 +1,19 @@
+Your name is: Nainesh
+Your last name is: Khanjire
+Your address line 1 is: Tara niwas
+Address line 2 is: Main street
+Your city is: kolhapur
+Your state is: Maharashtra
+The pincode is :416101Your name is: 
+Your last name is: 
+Your address line 1 is: 
+Address line 2 is: 
+Your city is: 
+Your state is: 
+The pincode is:Your name is: 
+Your last name is: 
+Your address line 1 is: 
+Address line 2 is: 
+Your city is: 
+Your state is: 
+The pincode is :
